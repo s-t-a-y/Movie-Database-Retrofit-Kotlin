@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="connection_problem">Connection Problem !</string>
+    <string name="image">Image</string>
+    <string name="movie_info">Movie Info :</string>
+    <string name="release_date">Release Date :&#160;</string>
+    <string name="rating">Rating :&#160;</string>
+    <string name="runtime">Runtime :&#160;</string>
+    <string name="budget">Budget :&#160;</string>
+    <string name="revenue">Revenue :&#160;</string>
+    <string name="overview">Overview :</string>
+    <string name="error_message">Error Message</string>
+</resources>
